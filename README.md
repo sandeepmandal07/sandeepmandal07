@@ -1,7 +1,8 @@
 ## Hi , I'm Sandeep Mandal<br/>
 🧠Computer Science Student <br/>
-📊 I’m an aspiring Data Analyst with hands-on experience in data visualization, cleaning, and dashboard creation using Python, SQL, Excel, and Power BI.<br/>
-📈 I’ve built projects like an Amazon Sales Dashboard, OLA Ride Data Dashboard , and Papollo Hospital: Patient Leads Flow & Operational Dashboard.<br/>
+💻 Aspiring Software Developer skilled in Python, JavaScript, HTML & CSS — focused on building efficient, user-centric applications using SDLC and OOP principles.<br/>
+📊 I have also knowledge about Data Analyst with hands-on experience in data visualization, cleaning, and dashboard creation using Python, SQL, Excel, and Power BI.<br/>
+📈 I’ve built projects like Fake News Detection , Student Result Management Sytstem, Amazon Sales Dashboard, OLA Ride Data Dashboard , and Papollo Hospital: Patient Leads Flow & Operational Dashboard.<br/>
 
 
 ## 🌐 Socials:
