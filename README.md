@@ -1,8 +1,19 @@
 ## Hi , I'm Sandeep Mandal<br/>
-🧠Computer Science Student <br/>
-💻 Aspiring Software Developer skilled in Python, JavaScript, HTML & CSS — focused on building efficient, user-centric applications using SDLC and OOP principles.<br/>
-📊 I have also knowledge about Data Analyst with hands-on experience in data visualization, cleaning, and dashboard creation using Python, SQL, Excel, and Power BI.<br/>
-📈 I’ve built projects like Fake News Detection , Student Result Management Sytstem, Amazon Sales Dashboard, OLA Ride Data Dashboard , and Papollo Hospital: Patient Leads Flow & Operational Dashboard.<br/>
+🧠Computer Science Graduate <br/>
+💻 Aspiring Software Developer passionate about building scalable and user-centric web applications .<br/>
+⚡ Skilled in:
+- C++, JavaScript, Python, SQL
+- React, Node.js, Express.js, MongoDB
+- REST APIs, JWT Authentication, OOP & SDLC <br/>
+🤖 Familiar with AI-assisted development workflows using Gemini AI, Claude, Google AI Studio & other Generative AI tools.<br/>
+🚀 Projects:
+- Course Selling Backend API
+- StrongBuilds Gym Website
+- Fake News Detection System
+- Stock Price Predication
+- Amazon Sales Dashboard
+- OLA Ride Data Dashboard
+- Papollo Hospital Operational Dashboard.<br/>
 
 
 ## 🌐 Socials:
