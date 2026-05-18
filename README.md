@@ -1,12 +1,12 @@
 ## Hi , I'm Sandeep Mandal<br/>
 🧠Computer Science Graduate <br/>
 💻 Aspiring Software Developer passionate about building scalable and user-centric web applications .<br/>
-⚡ Skilled in:
+⚡ Skilled in:<br/>
 - C++, JavaScript, Python, SQL
 - React, Node.js, Express.js, MongoDB
-- REST APIs, JWT Authentication, OOP & SDLC 
-🤖 Familiar with AI-assisted development workflows using Gemini AI, Claude, Google AI Studio & other Generative AI tools.
-🚀 Projects:
+- REST APIs, JWT Authentication, OOP & SDLC</br> 
+🤖 Familiar with AI-assisted development workflows using Gemini AI, Claude, Google AI Studio & other Generative AI tools.</br>
+🚀 Projects:</br>
 - Course Selling Backend API
 - StrongBuilds Gym Website
 - Fake News Detection System
